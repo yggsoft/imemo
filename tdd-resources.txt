@@ -1,0 +1,16 @@
+https://github.com/oliver6600gt/TDD-finance
+https://github.com/tkaufman/JavaTDD
+https://github.com/yuuzer/TDD-examples/blob/master/src/test/java/guide/AudioGuideTest.java
+https://github.com/codecentric/TDDTrainingApplication/tree/master/TDDTrainingApplicationCC/src/test/java/functional/nl/codecentric/training/tdd/web
+https://github.com/javamv/tdd-bigdata
+https://github.com/xpinjection/tdd-sample
+https://github.com/lyndseypadget/tdd-rest-demo
+https://github.com/xianlinbox/TDD_Demo
+https://github.com/koduki/javaee-tdd-example-blog/tree/master/src/test/java/cn/orz/pascal/blog
+https://github.com/relevance/java-tdd/tree/master/examples/junit4/junit4
+https://github.com/orfjackal/tdd-tetris-tutorial
+https://github.com/ssmithstone/spring_web_tdd_example/tree/master/src/test/java/com/qualsafe/survey
+https://github.com/ekonijn/wicket-demo/tree/master/tst8-war/src/test/java/nl/xs4all/banaan/tst8
+https://github.com/vijaynathani/TddCrud/tree/master/src/test/java
+https://github.com/connect-group/thymeleaf-tdd
+https://github.com/ssmithstone/spring_web_tdd_example/tree/master/src/test/java/com/qualsafe/survey
